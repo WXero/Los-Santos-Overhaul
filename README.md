@@ -13,7 +13,9 @@
 
 # I HAVE ENCOUNTERED AN ISSUE
 + Join the discord and open a ticket! Every reports are more than appreciated!
-   
+
+# CHANGE-LOGS
++ To follow the updates of this mod please go to the dev-log file, here also you will find any knoww issues - which will be fixed (sooner or later)
 
 # NOTE 
 
