@@ -19,3 +19,12 @@
  [ - ] Known issues
 
  - Collisions - still to be done
+
+# 1.2 
+[ + ] Collisions fix
+
+- Legion Square
+
+ [ - ] Known issues
+
+- LODs
