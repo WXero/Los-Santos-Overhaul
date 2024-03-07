@@ -29,7 +29,7 @@
 
 - LODs
 
-# 1.2 
+# 1.3
 [ + ] LODs fix
 
 - Pillbox Hill
