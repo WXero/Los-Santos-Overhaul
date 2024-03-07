@@ -23,8 +23,18 @@
 # 1.2 
 [ + ] Collisions fix
 
-- Legion Square
+- ~Legion Square~ Pillbox Hill
 
  [ - ] Known issues
 
 - LODs
+
+# 1.2 
+[ + ] LODs fix
+
+- Pillbox Hill
+- Downtown Vinewood
+
+ [ - ] Known issues
+
+- //
